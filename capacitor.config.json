@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.react_project",
+  "appName": "react_project",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
